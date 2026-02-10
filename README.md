@@ -1,5 +1,3 @@
----
-
 ## 📌 Descrição do Código
 
 ### 🧱 1) **Index.html**
